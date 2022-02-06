@@ -4,6 +4,7 @@
 if __name__ == '__main__':
 
     print("Hello World")
+    print("Welcome")
 
     liste = [1, 2, 3, 4, 5]
     for nombre in liste:
