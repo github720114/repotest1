@@ -13,7 +13,7 @@ if __name__ == '__main__':
         else:
             print("Impaire")
 
-    for i in range(10):
+    for i in range(100):
         print(f"i = {i}")
 
     print('Goodbye everybody')
